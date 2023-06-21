@@ -1,0 +1,12 @@
+button {
+    margin: 10px;
+    transition: background-color 0.5s ease;
+}
+.correct {
+    background-color: #28a745 !important;
+    color: white;
+}
+.incorrect {
+    background-color: #dc3545 !important;
+    color: white;
+}
